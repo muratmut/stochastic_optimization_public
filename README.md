@@ -1,6 +1,34 @@
 # stochastic_opt
 
 
+
+# Stochastic Optimization for Profit Maximization
+
+Welcome to our project repository! This project focuses on solving a stochastic optimization problem aimed at maximizing profit margins within a production plan. Our primary objective is to determine the optimal surplus quantity to be added to the demand forecast for each product. 
+
+## Problem Description
+For each product, we have access to data including:
+- Estimated demand and its variability distribution.
+- Margin per unit, calculated as net price minus cost.
+- Cost of goods sold (COGS), representing production costs.
+- Capacity constraints, defining the maximum percentage of demand that can be added as surplus.
+- Substitutability group numbers indicating product substitutability.
+
+**The details of the problem description is in ProblemStatement.pdf**
+
+
+
+## Goal
+The goal is to develop an efficient solution that identifies the ideal surplus quantity for each product, considering all the aforementioned factors. By doing so, we aim to enhance profit margins while adhering to capacity limitations and product substitutability constraints.
+
+## Repository Contents
+- **Documentation**: Detailed explanation of the problem statement, methodology, and solution approach.
+- **Codebase**: Implementation of the stochastic optimization algorithm tailored to this problem.
+- **Results**: Output and analysis of optimized surplus quantities for various scenarios.
+
+
+
+
 ### Installation
 
 ```bash
