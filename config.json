@@ -1,0 +1,5 @@
+{
+  "1": {"total_constraint_percentage": 0.2, "tau": 0.4, "group_lower_bound_percentage": 0.7},
+  "2": {"total_constraint_percentage": 0.2, "tau": 0.3, "group_lower_bound_percentage": 0.8},
+  "3": {"total_constraint_percentage": 0.2, "tau": 0.15, "group_lower_bound_percentage": 1.0}
+}
