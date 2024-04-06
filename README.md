@@ -32,7 +32,10 @@ The goal is to develop an efficient solution that identifies the ideal surplus q
 
 **The details of the model implemented are in the docs/latex/summary.pdf file.**
 
+## License
+This software has GNU AFFERO GENERAL PUBLIC LICENSE. See the LICENSE file in the repo for details. 
 
+In short, while this license allows for commercial use of the software, it imposes requirements related to source code availability and distribution, particularly for software deployed on network servers. Any use, modification, or distribution of AGPL-licensed software must comply with the terms of the license to preserve the principles of software freedom.
 
 
 ### Installation
