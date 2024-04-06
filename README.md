@@ -4,7 +4,7 @@
 
 # Stochastic Optimization for Profit Maximization
 
-Welcome to our project repository! This project focuses on solving a stochastic optimization problem aimed at maximizing profit margins within a production plan. Our primary objective is to determine the optimal surplus quantity to be added to the demand forecast for each product. 
+This project focuses on solving a stochastic optimization problem aimed at maximizing profit margins within a production plan. Our primary objective is to determine the optimal surplus quantity to be added to the demand forecast for each product. 
 
 ## Problem Description
 For each product, we have access to data including:
@@ -13,6 +13,8 @@ For each product, we have access to data including:
 - Cost of goods sold (COGS), representing production costs.
 - Capacity constraints, defining the maximum percentage of demand that can be added as surplus.
 - Substitutability group numbers indicating product substitutability.
+
+
 
 **The details of the problem description is in ProblemStatement.pdf**
 
@@ -25,6 +27,10 @@ The goal is to develop an efficient solution that identifies the ideal surplus q
 - **Documentation**: Detailed explanation of the problem statement, methodology, and solution approach.
 - **Codebase**: Implementation of the stochastic optimization algorithm tailored to this problem.
 - **Results**: Output and analysis of optimized surplus quantities for various scenarios.
+
+
+
+**The details of the model implemented are in the docs/latex/summary.pdf file.**
 
 
 
@@ -53,5 +59,5 @@ python start.py
 
    
 
-The details of the models are in the pdf file.
+
 
